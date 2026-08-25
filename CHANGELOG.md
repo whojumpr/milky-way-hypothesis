@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-25 (session 3 — research round 1, branch `research-round-1`)
+- Added five research dossiers: [[O7 Design Debate]], [[O8 Divine Darkness]], [[C13 Anomaly Ledger]], [[C15 Kesil Word Study]], [[Citation Verification]].
+- Corrections applied: C2 "minor spur" superseded (Local Arm is major-arm-scale); C27 re-attributed (Badawy & Trimble 1964 = King's shafts/Orion's Belt/Thuban only; Sirius/Alnitak layer = Bauval 1993–94); C15 demoted to contested-leaning-solid; "belt of Orion" corrected to "cords"; Ulansey/Josephus citations precised; Sgr A* radiation claim tense-corrected.
+- Verdicts updated: O8 answered (defensive only); O7 sharpened and kept open; C13 researched and kept open.
+
 ## 2026-08-25 (session 2)
 - Added the Giza star-shaft alignment (C27, Badawy & Trimble 1964) to [[03 The Spiritual Weight of Orion]], the [[Claims Audit]], and [[Steelman]] support 3 — `#claim/solid` with caveats; the well-evidenced replacement for the demoted Orion Correlation Theory.
 

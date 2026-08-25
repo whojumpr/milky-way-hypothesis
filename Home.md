@@ -25,6 +25,9 @@ Working vault for stress-testing the hypothesis that **the Milky Way is a tear i
 - [[Objections Ledger]] — the strongest objections we can find, numbered, with severity and status
 - [[Steelman]] — the strongest defensible version of the hypothesis after the audit
 
+## Research rounds
+- Round 1 (2026-08-25): [[O7 Design Debate]] · [[O8 Divine Darkness]] · [[C13 Anomaly Ledger]] · [[C15 Kesil Word Study]] · [[Citation Verification]]
+
 ## Sources & process
 - [[Scripture Index]] — every passage cited, with translation notes
 - [[Rules of Evidence]] — how claims get tagged, and the working rules for this repo
