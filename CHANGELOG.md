@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-08-25 (session 6 — research round 3: soul-gates + raqia, branch `research-round-3`)
+- Added [[Macrobius Soul Gates]] (primary Latin verified: the two gates at the galaxy-zodiac crossings; Numenius via two channels; Heraclides 4th c. BC; the one-sign astronomical error as the load-bearing finding) and [[C24 Raqia Debate]] (both sides; solid-but-flat refinement; Walton nuance).
+- Audit: C24 re-worded, C31 (nehar di-nur + Nut; seam-reading unattested) and C32 (soul-gates) added; steelman support 3 upgraded; Ulansey shared-witness dependency logged.
+- Corrected [[06 Heaven Leaking Through]]: the seam-in-the-dome image is a modern reconstruction with no ancient attestation; the band's real ancient integrations added.
+
 ## 2026-08-25 (session 5 — research round 2: Jacob's ladder)
 - Added [[Jacobs Ladder Text]] and [[Jacobs Ladder Reception]]; audit rows C28–C30; **steelman support 5** ("the located gate, personalized").
 - Confirmed: Milky Way = Way of St. James / Jakobsstraße (Allen 1899, Meyers Lexikon, Codex Calixtinus soul-road legend); *sullam* hapax + *simmiltu* parallel (Winitzer 2025); John 1:51's relocation of Bethel onto Jesus; Mark 1:10 as the canon's only torn heavens (verb map).

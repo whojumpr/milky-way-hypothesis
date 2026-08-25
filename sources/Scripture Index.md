@@ -37,5 +37,8 @@ Every passage the vault cites, with the original-language notes that matter to t
 | Talmud, Berakhot 58b | Kesil's heat balancing Kimah's cold (C18) |
 | Pyramid Texts (Sah/Osiris) | Egyptian Orion ascent material (C16) |
 | Josephus, *Jewish War* 5.212–214 | The heavens-embroidered temple veil (C21) |
-| Cicero, *Dream of Scipio*; Macrobius' commentary | Milky Way as the soul's road (C25) |
+| Cicero, *Dream of Scipio* 6.16; Macrobius, *Commentary* 1.11.12–1.12.18 | Milky Way as the souls' abode and road; the two gates at the galaxy-zodiac crossings — Cancer "portal of men," Capricorn "portal of gods" (C25, C32; Latin verified — [[Macrobius Soul Gates]]) |
+| Porphyry, *De antro nympharum* 21–24, 28–29 | The gates doctrine credited to Numenius & Cronius; galaxy as the souls' gathering (ch. 28); Mithras at the equinoxes |
+| Heraclides Ponticus, frs. 96–98 Wehrli | Earliest attestation (4th c. BC): "the Milky Way is the path of souls" — fragment page unverified, cite cautiously |
+| Daniel 7:10 → b. Ḥagigah 14a; b. Berakhot 58b | The *nehar di-nur*, celestial river of fire — identified with the Milky Way (Jewish Encyclopedia); Scorpio's sting placed in it, astronomically true (C31) |
 | Isaac Luria (via Vital, *Etz Chaim*) | Tzimtzum doctrine (C23) |
