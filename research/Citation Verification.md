@@ -28,3 +28,20 @@ Independent verification of every load-bearing citation, 2026-08-25, before anyt
 
 ### Sources
 JBL abstract (Scholarly Publishing Collective) · Lexundria (Whiston B.J. 5.212–214) · BibleHub Strong's 4977/455/7167/6205 · Digital Giza (Trimble MIO 10 citation) · Magli arXiv:1401.0508 bibliography · Upuaut Project · arXiv:1904.05721 (GRAVITY A&A 625, L10) · Sefaria Berakhot 58b:8 · Wikisource *Sidereal Messenger* · ESA Gaia DR3
+
+---
+
+# Round 4 sweep — the do-not-cite list attacked (2026-08-25)
+
+| Item | Verdict | What the vault may now cite |
+|---|---|---|
+| Heraclides/Empedotimus | **VERIFIED** — read in Schütrumpf's edition (archive.org) | Fr. 96 Wehrli = **52 Schütrumpf** (Philoponus, CAG 14.1, 117.9–12): "the Milky Way is the path of souls that travel through the Underworld in the sky"; + fr. 50 Schütrumpf (Iamblichus, *De anima* 26); Gottschalk 1980, 98–105. Drop the "frs. 96–98" blanket. |
+| Chromatius ladder-as-cross | **VERIFIED & pinned** | *Sermo* 1 (CCSL 9A; SC 154); trans. Scheck, ACW 75 (2018), pp. 19–20 — verbatim quotes on file. Not the *Tractatus in Mathaeum*. |
+| Bede on John 1:51/ladder | **VERIFIED by reference** | *Homilies on the Gospels* I.17 (on John 1:43–51; CCSL 122; Martin & Hurst, CS 110, pp. 166ff). Cite the fact, no verbatim quoting until sighted. |
+| Salona epitaph | **IDENTIFIED** | Bilić, "From Salona to the Milky Way," in *Monumenta marmore aereque perenniora* (Zagreb 2020): late-antique epitaph, 420s–430s, "abode of the blessed located in the Galaxy" — author reads it as **antiquarian revival**, not living cult. Caveat travels with the citation. |
+| Philo veil | **VERIFIED, section corrected** | QE **2.85** = curtains as four elements; QE **2.91** = the veil as the sublunary/heavenly divide — hang the "veil = heavens" claim on 2.91. Trans. Marcus, Loeb Suppl. II (read on archive.org). |
+| Berakhot Scorpio line | **VERIFIED, exact** | b. Berakhot **58b:13** (Sefaria), Aramaic on file: Scorpio's sting (*ʿuqtza*) rests in the *nehar dinur*, proof-texted with Job 38:31. |
+| Stahl p. 133 fn. / Bede glossator (PL 90:234) | STILL SECONDHAND | Cite Macrobius I.12.1–2 directly (Latin verified); state Gemini/Sagittarius as plain astronomy; the glossator detail stays flagged "per Stahl 1952 ad loc., unverified." |
+| Driver *JTS* / HALOT on *kesil* | BIBLIOGRAPHY VERIFIED, contents unsighted | Driver, *JTS* n.s. 4 (1953) 208–212 **and** n.s. 7 (1956) 1–11 (two articles, same title) — citable bibliographically only. C15 does not upgrade. |
+| Pre-1899 "Milky Way = Jacob's Ladder" | **NEGATIVE — decisive** | Grimm (read in full) ties Jakobsstraße to **St James only** ("via sancti Jacobi" already in John of Genoa's *Catholicon*, 13th c.); the "Jacob's ladder?" aside is the translator Stallybrass's bracket; EDD (1898–1905) has no Milky-Way sense; Etymonline is unsourced/derivative. **Allen 1899 is the earliest witness; C30 stays contested.** |
+| Graur's Nut thesis | Reception checked | Favorably received (Krupp in SciAm); author himself cautious against a flat Nut = Milky Way equation; no published Egyptological rebuttal located as of Aug 2026. |

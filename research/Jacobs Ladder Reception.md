@@ -15,6 +15,8 @@ Researched 2026-08-25. Companion to [[Jacobs Ladder Text]]. Every claim below wa
 
 **The conflation, documented rather than glossed:** Santiago = *Sanctus Iacobus* = St. Jacob; the apostle James and the patriarch Jacob are the same name in most European languages. The German sky-names are formally pilgrimage-route names — yet Allen himself glosses them to the *patriarch* (Orion's Belt as "his Staff," the Ladder association). The reread from saint's road to patriarch's imagery is visible happening inside the sources. Tagged honestly: the road-names are solid; the Ladder link is contested; the whole convergence is `#claim/pattern`.
 
+**Round-4 negative evidence (decisive for C30):** Grimm's *Teutonic Mythology* (read in full) derives Jakobsstraße strictly from the **saint** — "galaxias via sancti Jacobi" already in John of Genoa's 13th-century *Catholicon* — and assigns Jacobs-stab to "the holy apostle"; the bracketed "was there no thought of Jacob's ladder?" is the *translator* Stallybrass's query, not Grimm's claim. Wright's English Dialect Dictionary (1898–1905) records no Milky-Way sense of "Jacob's ladder" (plants, a stile, a dropped stitch, crepuscular rays only). Etymonline's listing is unsourced and almost certainly downstream of Allen. **Allen 1899 remains the earliest identified witness for patriarch-ladder = Milky Way; C30's Ladder item stays `#claim/contested` permanently unless a pre-1899 source surfaces.**
+
 ## 2. Rabbinic & Hellenistic-Jewish readings
 - **Genesis Rabbah 68:12** (Sefaria-verified): Bar Kappara's Temple reading (ladder = the ramp, top = ascending offering-smoke); **the ladder-is-Sinai reading with the gematria stated in the midrash itself** (*sulam* 130 = *Sinai* 130; angels = Moses and Aaron); the R. Ḥiyya/R. Yannai debate over whether the angels move on the ladder or **on Jacob himself** — the traffic runs on the man.
 - **Genesis Rabbah 69:7:** two rival geographies, both pivoting on the **Temple** (Beersheba→Temple; Temple→Bethel). (Corrects the loose "foot at Beersheba, top at Bethel" summary.)
@@ -23,8 +25,8 @@ Researched 2026-08-25. Companion to [[Jacobs Ladder Text]]. Every claim below wa
 
 ## 3. Christian reception
 - **Ladder as Christ:** Augustine, *Tractates on John* 7.23 (New Advent, verified) — the anointed stone is Christ, the angels are preachers, and per John 1:51 the traffic moves **on the Son of Man**.
-- **Ladder as the Cross:** Chromatius of Aquileia (d. c. 407) — two beams as the two testaments, rungs as heavenly precepts. *(Quote is secondhand via ACCS-derived sources; exact sermon number untraced — cite as "via ACCS" only.)*
-- **Bede:** NOT VERIFIED this round — do not cite.
+- **Ladder as the Cross:** Chromatius of Aquileia (d. c. 407), **now pinned (round 4): *Sermo* 1** (CCSL 9A; SC 154; trans. Scheck, ACW 75, 2018, pp. 19–20): "The ladder fixed from earth to the heaven is the Cross by which there is a place for us in heaven" — two beams as the two testaments, rungs as heavenly precepts.
+- **Bede:** **verified by reference (round 4): *Homilies on the Gospels* I.17** on John 1:43–51 (CCSL 122; Martin & Hurst, CS 110, pp. 166ff) — citable for the fact he expounds the ladder there; no verbatim quoting until the volume is sighted.
 - **John Climacus, *Ladder of Divine Ascent*** (c. 600): the 30-rung ascetic ladder, and the famous 12th-century icon at St. Catherine's — which sits physically **at Sinai**, the mountain the midrash equated with the ladder by gematria.
 - **Benedict, *Rule* ch. 7:** the ladder is "our life in this world," sides body and soul, rungs the twelve steps of humility; "we descend by exaltation and ascend by humility."
 
