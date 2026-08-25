@@ -9,20 +9,19 @@ The strongest objections we can construct, at full strength, per [[Rules of Evid
 
 ---
 
-## O1 — The photon budget is closed
-**Hits: A. Severity: fatal. Status: upheld — forced A's retirement.**
-If any of the band's light leaked from another realm, it would appear as an unexplained emission component. It doesn't. The band's brightness, spectrum, and structure are fully reproduced by star counts, stellar population models, gas, and dust. Gaia has individually cataloged ~1.8 billion of the stars that make it up, each with normal spectra, parallax, and proper motion. There is no remainder for Heaven to be.
-*Answer on file:* none possible for A. Version A is retired ([[The Hypothesis]]); C is untouched because C never claimed the light was anomalous.
+## O1 — No anomalous light (the decisive astrophysical evidence family; O3 is its historical root)
+**Hits: A. Severity: decisive. Status: upheld — forced A's retirement.**
+If any of the band's light leaked from another realm, it would appear as an anomalous emission component. None is detected: known astrophysical populations and radiative processes adequately account for the observed band's brightness, spectrum, and structure. Precision (review round 1): Gaia DR3 lists ~1.806 billion photometric sources, with full astrometry for ~1.46 billion and spectra for subsets; the band also contains unresolved and diffuse components — so the honest claim is "no robust anomalous optical component," not "every photon audited." That is fatal to A *as specified* (an anomalous-emission claim), while remaining an evidential exclusion rather than a proof of exact zero.
+*Answer on file:* none for A. Version A is retired ([[The Hypothesis]]); C is untouched because C never claimed the light was anomalous.
 
-## O2 — The band is geometry, not a seam
-**Hits: A. Severity: fatal (independent of O1). Status: upheld.**
-The band is a **great circle** through the sky — visible in both hemispheres, wrapping 360°, including toward the galactic *anticenter* where there is no "center glow" at all. That is exactly what "observer embedded in a disk" predicts, and not at all what "a localized rip in a dome" predicts. Any rip hypothesis has to explain why the tear happens to pass precisely through every observer's celestial sphere as a great circle — the disk explanation gets this for free.
-*Answer on file:* none for A. Notably, this objection *helps* C: the form of the band is a necessary consequence of our address (Section 1), which is the part of the foundation that survives strongest.
+## O2 — The band is disk geometry, not a seam
+**Hits: A. Severity: severe (parsimony, not logical falsification). Status: upheld.**
+The band forms an approximately full-sky belt centered on the Galactic plane (the formal galactic equator is a great circle; the visible band tracks it only approximately, given the Sun's offset, the disk's warp, dust, and the bulge) — visible in both hemispheres, wrapping the whole sky, including toward the galactic *anticenter*. That is what "observer embedded in a disk" predicts. A rip model isn't *logically* excluded by this — but it must postulate, ad hoc, a tear that happens to coincide with the disk plane the star counts independently establish. Parsimony removes it.
+*Answer on file:* none for A. Notably, this observation *helps* C: the band's form is a necessary consequence of our address (Section 1).
 
-## O3 — Resolved since 1610
-**Hits: A. Severity: fatal (third independent line). Status: upheld.**
-Galileo pointed a telescope at the band and it dissolved into individual stars (*Sidereus Nuncius*, 1610). A seam of divine light should not resolve into billions of ordinary point sources under magnification. Four centuries of increasing resolution have only deepened this.
-*Answer on file:* none for A.
+## O3 — Resolved since 1610 (historical root of O1)
+**Hits: A. Status: upheld — counted as part of O1's evidence family, not an independent line (review round 1).**
+Galileo resolved the band into individual stars (*Sidereus Nuncius*, 1610); four centuries of increasing resolution deepened the same finding, culminating in Gaia. This is where O1's resolved-starlight evidence begins, so the scoreboard counts O1+O3 as one decisive family.
 
 ## O4 — The genetic fallacy cut
 **Hits: A, B. Severity: severe. Status: upheld — reshaped the whole project.**
@@ -46,18 +45,19 @@ Observers only ever find themselves somewhere habitable, so "our address is favo
 *Research round 1 ([[O7 Design Debate]]):* the debate's shape confirmed — SEP's judgment is "contested but not defeated"; Weisberg (2005, non-theist) and Kotzen keep the inference form alive against Sober's selection-effect argument. But the *rarity premise* weakened: the GHZ literature has fragmented (Prantzos: possibly the whole disk is habitable), and the "minor quiet spur" description of our arm is empirically superseded (Xu et al. 2016 — the Local Arm is major-arm-scale). O7 stays open; the design reading holds `#claim/interpretation`, no better.
 
 ## O8 — The center is the least heavenly place
-**Hits: B (and rhetoric in Section 6). Severity: moderate. Status: answered (defensive use only) — research round 1.**
+**Hits: B (and rhetoric in Section 6). Severity: moderate. Status: partially defused (defensive only; no positive support) — research round 1, restated review round 1.**
+*(Scope per review: the divine-darkness material shows a dark, hostile location is not incompatible with the biblical-mystical tradition; it does not answer the arbitrariness of selecting the galactic center, and supplies no reason to identify it as a thin place.)*
 The literal galactic center is a dust-shrouded region around Sgr A*, a 4-million-solar-mass black hole — hostile to complex life, violently so during its past active phases — an odd pick for the point where Heaven bleeds in. And the visible "glow" toward the center isn't the center at all (C12).
 *Answer on file ([[O8 Divine Darkness]]):* the objection fails *as posed*, on the tradition's own terms — theophanic darkness (*araphel*: Exod 20:21; 1 Kings 8:12's "dwell in thick darkness"; the windowless Holy of Holies) and dread at the point of contact (Otto's *tremendum*; Heb 12:18–29) are the biblical-mystical *norm*, through Gregory of Nyssa's luminous darkness and Pseudo-Dionysius. **Strictly defensive:** it removes the defeater and carries zero positive evidential weight. The stapled rebuttal (darkness is an epistemic veil, not a location; the canon runs darkness→light; the dust "veil" was pierced by the EHT in 2022; heads-I-win risk) permanently bars promoting this to "the darkness confirms the thin place."
 
 ## O9 — The tear reading isn't universal
 **Hits: the "entirely logical" claim in Section 6 and any universality framing of C25. Severity: minor-to-moderate. Status: upheld as a valid scope restriction — quantified in round 4.**
 Cultures read the band as a river (China, the Andes), spilled cornmeal (Cherokee), wood-ashes (San), straw (Armenian–Turkish belt), a ski track (Siberia), a long fish (Māori), and dark constellations (Andean; the Great Emu). If the band self-evidently read as a tear or road, the readings would converge. They only partially do.
-*Answer on file (updated, [[Global Milky Way Survey]]):* accepted and now measured — the soul-road is the single most elaborated reading worldwide (~15 of ~34 well-attested traditions) but a plurality, not a majority, and independence collapses to ~4 lineages. The earlier claim that "nearly all the readings agree it is a path between worlds" was **too strong and is retracted**. Support 3 re-worded to the honest four-lineage form; the convergence tagged `#claim/pattern`. O9 does not refute the sign reading — it fixes its true size.
+*Answer on file (updated, [[Global Milky Way Survey]]; wording completed review round 2):* accepted and now measured — in our surveyed corpus, 15 of 34 traditions were coded soul-/otherworld-travel (a strong plurality within that corpus, not a majority), grouped provisionally into ~4 independent lineages. The earlier claim that "nearly all the readings agree it is a path between worlds" was **too strong and is retracted**. Support 3 re-worded to the honest four-lineage form; the convergence tagged `#claim/pattern`. O9 does not refute the sign reading — it fixes its true size.
 
 ---
 
-## Scoreboard
-- **Version A:** three independent fatal objections (O1, O2, O3). Retired.
-- **Version B:** confined to metaphysics by O6; pressured by O4, O8.
-- **Version C:** survives all nine; strengthened by O2 (the form follows from our address) and O9 (cross-cultural path-between-worlds convergence). Built out in [[Steelman]].
+## Scoreboard (re-stated after review round 1)
+- **Version A:** one decisive astrophysical evidence family (O1, with O3 as its historical root) plus a geometry/parsimony objection (O2). Retired — unsupported and observationally excluded in its specified form.
+- **Version B:** confined to declared metaphysics by O6; pressured by O4, O8.
+- **Version C:** no unanswered defeater on the ledger — and, correctly scoped, C makes no claim the sciences could defeat. O9 stands as a permanent scope restriction on its reception-history input. Built out in [[Steelman]] as labeled interpretation.

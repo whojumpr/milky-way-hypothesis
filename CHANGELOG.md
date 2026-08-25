@@ -1,5 +1,13 @@
 # Changelog
 
+## 2026-08-25 (session 9 — review round 2 final, branch `review-round`)
+- Round 2 initially returned DO NOT SHIP over five residual stale copies of accepted round-1 fixes; all five completed (C25/O9 wording + Yolŋu; C11–C13 photon/Gaia precision; C20 intent split; C27 cell split + conclusion re-qualified; Scripture Index editions named + *qāraʿ*), grep-verified across the claim surface. Deferred item 30 accepted by the reviewer. Round-2 verbatim findings archived in `reviews/`.
+
+## 2026-08-25 (session 8 — pre-publication review round 1, branch `review-round`)
+- Ran the always-review gate (Codex, max reasoning): 33 findings (15 P1 / 17 P2 / 1 P3), verdict "publishable after P1s." All P1s and 16/17 P2s applied; one P2 deferred to round 2. Findings + dispositions in `reviews/`.
+- Steelman rebuilt as labeled interpretation over separated inputs; README re-framed (Christian theological exploration; Obsidian format note); astronomy wording precised (photon budget, Gaia, GRAVITY ±, arm quote attribution); C21 fact/interpretation split; C27 demoted; nehar di-nur and Nut re-ranked; C33 periodized; Indigenous citations re-done (Yolŋu; named communities; AIATSIS review queued); gematria protocol back-filled.
+- Added: the Theophrastus seam (Macrobius, Latin-verified) — an attested ancient Greek seam-reading of the band (C31, foundation 06).
+
 ## 2026-08-25 (session 7 — research round 4: the honest count, branch `research-round-4`)
 - Added [[Global Milky Way Survey]] (soul-road = strong plurality, ~4 independent lineages; support 3 re-scoped to `#claim/pattern`; O9 upheld as scope restriction; universality wording retracted) and [[Second Temple Gates]] (heaven as gated temple-architecture, C33; Milky Way absent — nehar di-nur stays rabbinic; Philo joins Josephus on the veil, strengthening C21).
 - Verification sweep appended to [[Citation Verification]]: Heraclides, Chromatius, Bede, Salona (Bilić 2020), Philo sections, Berakhot 58b:13 upgraded to citable; Driver/HALOT bibliographies exact but contents still barred; Grimm negative closes the pre-1899 "Jacob's Ladder = Milky Way" question — C30 stays contested.

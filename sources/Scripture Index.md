@@ -5,7 +5,9 @@ tags: [sources, scripture]
 
 # Scripture Index
 
-Every passage the vault cites, with the original-language notes that matter to the argument. Verify wording against a critical text before anything goes public.
+Every passage the vault cites, with the original-language notes that matter to the argument.
+
+**Verification statement (2026-08-25, review rounds 1–2):** Hebrew readings follow the Masoretic Text in the **Westminster Leningrad Codex** (the base text of BibleHub's interlinear apparatus, Strong's-keyed, and of Sefaria's Tanakh); Greek follows **Nestle 1904** (BibleHub's concordance base), with Strong's-keyed occurrence checks; English wording of biblical quotations is our own literal rendering cross-checked against those interlinear texts. Talmud: **William Davidson edition** (Sefaria), English and Aramaic. Josephus: Whiston and Thackeray (Loeb), labeled per quotation. Philo: Marcus, Loeb Supplement II. Macrobius: Eyssenhardt's Teubner Latin. Passages verified against these sources are so marked in [[Citation Verification]]; anything unsighted is flagged in place and excluded from load-bearing prose.
 
 ## The tearing / fabric motif
 | Passage | Role | Language note |
@@ -37,8 +39,8 @@ Every passage the vault cites, with the original-language notes that matter to t
 | Talmud, Berakhot 58b | Kesil's heat balancing Kimah's cold (C18) |
 | Pyramid Texts (Sah/Osiris) | Egyptian Orion ascent material (C16) |
 | Josephus, *Jewish War* 5.212–214 | The heavens-embroidered temple veil (C21) |
-| Cicero, *Dream of Scipio* 6.16; Macrobius, *Commentary* 1.11.12–1.12.18 | Milky Way as the souls' abode and road; the two gates at the galaxy-zodiac crossings — Cancer "portal of men," Capricorn "portal of gods" (C25, C32; Latin verified — [[Macrobius Soul Gates]]) |
+| Cicero, *Dream of Scipio* 6.16; Macrobius, *Commentary* 1.11.12–1.12.18 | Attribution precised (review round 1): **Cicero** — the Milky Circle as the *dwelling* of the blessed souls (the "road to heaven" in his text is the virtuous life); **Macrobius/Porphyry** — the soul-road doctrine and the two gates at the galaxy-zodiac crossings, Cancer "portal of men," Capricorn "portal of gods" (C25, C32; Latin verified — [[Macrobius Soul Gates]]) |
 | Porphyry, *De antro nympharum* 21–24, 28–29 | The gates doctrine credited to Numenius & Cronius; galaxy as the souls' gathering (ch. 28); Mithras at the equinoxes |
 | Heraclides Ponticus, frs. 96–98 Wehrli | Earliest attestation (4th c. BC): "the Milky Way is the path of souls" — fragment page unverified, cite cautiously |
-| Daniel 7:10 → b. Ḥagigah 14a; b. Berakhot 58b | The *nehar di-nur*, celestial river of fire — identified with the Milky Way (Jewish Encyclopedia); Scorpio's sting placed in it, astronomically true (C31) |
+| Daniel 7:10 → b. Ḥagigah 13b–14a; b. Berakhot 58b:13 | The *nehar di-nur*, celestial river of fire (folio precised, review round 1). The Talmud does not gloss it as the Milky Way — **later interpreters (incl. Jewish Encyclopedia) make the identification** (`#claim/interpretation`); Scorpio's-sting placement is its observational support (C31) |
 | Isaac Luria (via Vital, *Etz Chaim*) | Tzimtzum doctrine (C23) |
