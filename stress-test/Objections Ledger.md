@@ -51,9 +51,9 @@ The literal galactic center is a dust-shrouded region around Sgr A*, a 4-million
 *Answer on file ([[O8 Divine Darkness]]):* the objection fails *as posed*, on the tradition's own terms — theophanic darkness (*araphel*: Exod 20:21; 1 Kings 8:12's "dwell in thick darkness"; the windowless Holy of Holies) and dread at the point of contact (Otto's *tremendum*; Heb 12:18–29) are the biblical-mystical *norm*, through Gregory of Nyssa's luminous darkness and Pseudo-Dionysius. **Strictly defensive:** it removes the defeater and carries zero positive evidential weight. The stapled rebuttal (darkness is an epistemic veil, not a location; the canon runs darkness→light; the dust "veil" was pierced by the EHT in 2022; heads-I-win risk) permanently bars promoting this to "the darkness confirms the thin place."
 
 ## O9 — The tear reading isn't universal
-**Hits: the "entirely logical" claim in Section 6. Severity: minor. Status: upheld.**
-Cultures read the band as a river (China), a road (Rome, Norse), spilled milk (Greece), a bird path (Baltic), and a dark constellation's silhouette (Andean; Australian Great Emu). If the band self-evidently read as a tear in the dome, the readings would converge. They don't.
-*Answer on file:* accepted; Section 6's wording weakened from "entirely logical" to "very natural for a dome cosmology." The diversity actually feeds C's folklore evidence base (C25) — nearly all the readings agree it is a *path between worlds*, which is the part C uses.
+**Hits: the "entirely logical" claim in Section 6 and any universality framing of C25. Severity: minor-to-moderate. Status: upheld as a valid scope restriction — quantified in round 4.**
+Cultures read the band as a river (China, the Andes), spilled cornmeal (Cherokee), wood-ashes (San), straw (Armenian–Turkish belt), a ski track (Siberia), a long fish (Māori), and dark constellations (Andean; the Great Emu). If the band self-evidently read as a tear or road, the readings would converge. They only partially do.
+*Answer on file (updated, [[Global Milky Way Survey]]):* accepted and now measured — the soul-road is the single most elaborated reading worldwide (~15 of ~34 well-attested traditions) but a plurality, not a majority, and independence collapses to ~4 lineages. The earlier claim that "nearly all the readings agree it is a path between worlds" was **too strong and is retracted**. Support 3 re-worded to the honest four-lineage form; the convergence tagged `#claim/pattern`. O9 does not refute the sign reading — it fixes its true size.
 
 ---
 

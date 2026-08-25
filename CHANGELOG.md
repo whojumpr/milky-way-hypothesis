@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-08-25 (session 7 — research round 4: the honest count, branch `research-round-4`)
+- Added [[Global Milky Way Survey]] (soul-road = strong plurality, ~4 independent lineages; support 3 re-scoped to `#claim/pattern`; O9 upheld as scope restriction; universality wording retracted) and [[Second Temple Gates]] (heaven as gated temple-architecture, C33; Milky Way absent — nehar di-nur stays rabbinic; Philo joins Josephus on the veil, strengthening C21).
+- Verification sweep appended to [[Citation Verification]]: Heraclides, Chromatius, Bede, Salona (Bilić 2020), Philo sections, Berakhot 58b:13 upgraded to citable; Driver/HALOT bibliographies exact but contents still barred; Grimm negative closes the pre-1899 "Jacob's Ladder = Milky Way" question — C30 stays contested.
+
 ## 2026-08-25 (session 6 — research round 3: soul-gates + raqia, branch `research-round-3`)
 - Added [[Macrobius Soul Gates]] (primary Latin verified: the two gates at the galaxy-zodiac crossings; Numenius via two channels; Heraclides 4th c. BC; the one-sign astronomical error as the load-bearing finding) and [[C24 Raqia Debate]] (both sides; solid-but-flat refinement; Walton nuance).
 - Audit: C24 re-worded, C31 (nehar di-nur + Nut; seam-reading unattested) and C32 (soul-gates) added; steelman support 3 upgraded; Ulansey shared-witness dependency logged.
