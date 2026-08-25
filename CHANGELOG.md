@@ -1,5 +1,11 @@
 # Changelog
 
+## 2026-08-25 (session 5 — research round 2: Jacob's ladder)
+- Added [[Jacobs Ladder Text]] and [[Jacobs Ladder Reception]]; audit rows C28–C30; **steelman support 5** ("the located gate, personalized").
+- Confirmed: Milky Way = Way of St. James / Jakobsstraße (Allen 1899, Meyers Lexikon, Codex Calixtinus soul-road legend); *sullam* hapax + *simmiltu* parallel (Winitzer 2025); John 1:51's relocation of Bethel onto Jesus; Mark 1:10 as the canon's only torn heavens (verb map).
+- Corrected: *sulam* = *Sinai* gematria originates in Genesis Rabbah 68:12 (not Baal HaTurim); Gen Rabbah 69:7 geography.
+- Scripture Index: added Gen 28:12/17, John 1:51, and the opened-heaven verb map.
+
 ## 2026-08-25 (session 4 — mission reframe + explorations)
 - Reframed the vault's posture per James: exploration and synthesis, not litigation — [[Home]] and [[Rules of Evidence]] updated; stress-test layer re-purposed as the exploration's safety rail.
 - Added `#claim/pattern` tag and the gematria protocol to [[Rules of Evidence]].

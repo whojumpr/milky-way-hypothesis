@@ -16,6 +16,10 @@ Every passage the vault cites, with the original-language notes that matter to t
 | Mark 1:10 | Heavens "torn open" at the baptism | Greek *schizō*; Matthew 3:16 / Luke 3:21 use *anoigō* ("opened") instead |
 | Mark 15:38 | Temple veil "torn in two, top to bottom" | Same verb, *schizō* — Mark's only two uses (concordance-verified); inclusio (Ulansey, *JBL* 110/1, 1991, pp. 123–125). Josephus, *War* 5.212–214 (Whiston): "a kind of image of the universe… all that was mystical in the heavens, excepting that of the [twelve] signs" — "panorama of the heavens" is Thackeray's Loeb rendering |
 | Revelation 6:14; Isaiah 34:4 | Sky recedes/rolls up "like a scroll" | Heavens as a coherent removable sheet |
+| Genesis 28:12 | Jacob's *sullam* "set on the earth, its top reaching the heavens," angels ascending and descending | *Sullam* is a **hapax** — "stairway" (majority) or ladder; possible Akkadian *simmiltu* cognate (contested). Hebrew *bo* ambiguous: "on it" or "on him" — the hinge John 1:51 turns on. See [[Jacobs Ladder Text]] |
+| Genesis 28:17 | "How awesome is this place… the house of God… the **gate of heaven**" | *Mah-nora ha-maqom* — the terror attaches to the *place*; *shaar hashamayim*; the anointed stone is a *matzevah* (divine-appearance marker) |
+| John 1:51 | "Heaven opened, and the angels of God ascending and descending on the Son of Man" | Verb *anoigō* (perfect — heaven *standing* open), not *schizō*; near-consensus allusion to Gen 28:12; the Bethel opening relocated onto a person. Ladder-Christology from Justin/Irenaeus/Tertullian/Augustine |
+| Verb map (all "opened heaven" scenes) | Ezek 1:1; Isa 64:1; Mark 1:10; Matt 3:16/Luke 3:21; John 1:51; Acts 7:56; 10:11; Rev 4:1; 19:11 | **Mark 1:10 is the canon's only torn (*schizō*) heavens** — all others use (di)*anoigō*; Mark plausibly restores Isa 64:1's *qaraʿ* that the LXX flattened to "open." Strengthens C21. See [[Jacobs Ladder Text]] §5 |
 | Genesis 1:6–8; Job 37:18 | The *rāqîaʿ* (firmament), "hard as a cast-metal mirror" | Basis for the solid-dome reading (C24) |
 
 ## Orion / stars
