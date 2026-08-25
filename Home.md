@@ -5,9 +5,9 @@ tags: [moc]
 
 # The Milky Way Hypothesis — Home
 
-Working vault for stress-testing the hypothesis that **the Milky Way is a tear in the fabric of the sky through which the light of Heaven leaks into the physical world** — and for finding out which version of that idea survives contact with the evidence.
+Working vault exploring the hypothesis that **the Milky Way is a tear in the fabric of the sky through which the light of Heaven leaks into the physical world** — piecing together astronomy, theology, mysticism, ancient teachings, and gematria, and cross-referencing them honestly.
 
-> The goal here is not proof beyond a shadow of a doubt. The goal is to put the idea through the ringer and keep whatever is still standing. — see [[Rules of Evidence]]
+> The goal is not perfection or deniability. The goal is to explore the idea in peace — and the stress-test layer is what makes that exploration safe: every thread labeled for what it is, so facts, interpretations, and patterns can sit side by side without impersonating each other. — see [[Rules of Evidence]]
 
 ## The claim
 - [[The Hypothesis]] — the claim itself, split into its three distinct versions (physical, metaphysical, typological)
@@ -24,6 +24,13 @@ Working vault for stress-testing the hypothesis that **the Milky Way is a tear i
 - [[Claims Audit]] — every factual claim in the foundation, checked and tagged
 - [[Objections Ledger]] — the strongest objections we can find, numbered, with severity and status
 - [[Steelman]] — the strongest defensible version of the hypothesis after the audit
+
+## Explorations (synthesis threads)
+- [[Gematria Threads]] — verified numeric correspondences: raqia = araphel = 380 (ours); sulam = Sinai = 130 (classical, Baal HaTurim) → the Jacob's-ladder/Bethel "gate of heaven" thread
+
+## Research rounds
+- Round 1 (2026-08-25): [[O7 Design Debate]] · [[O8 Divine Darkness]] · [[C13 Anomaly Ledger]] · [[C15 Kesil Word Study]] · [[Citation Verification]]
+- Round 2 (2026-08-25, the Jacob's ladder thread): [[Jacobs Ladder Text]] · [[Jacobs Ladder Reception]] → new steelman support 5 ("the located gate, personalized"), audit rows C28–C30
 
 ## Sources & process
 - [[Scripture Index]] — every passage cited, with translation notes
