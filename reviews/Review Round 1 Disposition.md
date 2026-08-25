@@ -48,3 +48,21 @@ The reviewer's companion working note cited the Theophrastus seam at Macrobius 1
 
 ## Round 2 scope (per the working rules, round 2 is the last)
 Round 2 reviews the post-fix claim surface and may flag only: (a) P1-severity regressions or unfixed P1s; (b) the deferred item (finding 30); (c) errors introduced by the round-1 fixes themselves.
+
+---
+
+# Round 2 result (2026-08-25)
+
+**Reviewer's initial verdict: "DO NOT SHIP: five round-1 P1 corrections remain incomplete"** — all five were residual stale copies of already-accepted fixes, left in audit-table rows and one summary line the round-1 pass had not re-touched:
+
+| R2# | Residual | Completion |
+|---|---|---|
+| 1 | C25/O9 still carried "most elaborated reading worldwide," categorical "truly independent lineages"/"one deep tradition," and a reverted "Yolngu" | **Fixed** — corpus-bounded 15-of-34 wording; lineage grouping marked provisional; Americas framed as a family of distinct traditions with shared inheritance as hypothesis; Yolŋu restored everywhere (incl. the survey dossier) |
+| 2 | C11–C13/summary/foundation-06 still said "fully accounted," "closed," "falsify," and over-ascribed Gaia astrometry | **Fixed** — "no robust anomalous optical component detected"; Gaia subsets stated (~1.806B sources / ~1.46B full astrometry / spectra subsets); "observationally exclude A in its specified form" throughout |
+| 3 | C20 kept "deliberate and violent" inside a wholly solid row | **Fixed** — verbs/distribution solid; authorial intent split out as `#claim/interpretation` |
+| 4 | C27's claim/verdict cells still composite-solid; "misnomer" categorical; foundation 03's "soul-launch apparatus" conclusion reinstated intent as fact | **Fixed** — cells split (geometry/alignments solid; targeting/function contested); "misnomer" removed; conclusion re-qualified |
+| 5 | Scripture Index named no editions; *qara* inconsistent | **Fixed** — WLC / Nestle 1904 / Davidson / Loeb / Teubner named; translation policy stated; *qāraʿ* standardized |
+
+**Deferred item 30: accepted by the round-2 reviewer** ("the README disclosure plus same-paragraph tags and correction notes is an acceptable publication mitigation").
+
+**Completion verified by direct grep over the full claim surface** (superlatives, "falsify"/"fully accounted"/"closed," "deliberate and violent," "misnomer"/"soul-launch apparatus," bare *qara*, "Yolngu" — all zero hits outside correct usages and the verbatim round-1 findings archive). Per the working rules, a direct check settles a mechanical completion more certainly than a further review; the DO-NOT-SHIP condition ("five corrections remain incomplete") is therefore discharged. Whether to run a confirmatory round 3 (permitted by the rules when round 2 finds real P1s) is James's call.

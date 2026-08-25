@@ -1,5 +1,8 @@
 # Changelog
 
+## 2026-08-25 (session 9 — review round 2 final, branch `review-round`)
+- Round 2 initially returned DO NOT SHIP over five residual stale copies of accepted round-1 fixes; all five completed (C25/O9 wording + Yolŋu; C11–C13 photon/Gaia precision; C20 intent split; C27 cell split + conclusion re-qualified; Scripture Index editions named + *qāraʿ*), grep-verified across the claim surface. Deferred item 30 accepted by the reviewer. Round-2 verbatim findings archived in `reviews/`.
+
 ## 2026-08-25 (session 8 — pre-publication review round 1, branch `review-round`)
 - Ran the always-review gate (Codex, max reasoning): 33 findings (15 P1 / 17 P2 / 1 P3), verdict "publishable after P1s." All P1s and 16/17 P2s applied; one P2 deferred to round 2. Findings + dispositions in `reviews/`.
 - Steelman rebuilt as labeled interpretation over separated inputs; README re-framed (Christian theological exploration; Obsidian format note); astronomy wording precised (photon budget, Gaia, GRAVITY ±, arm quote attribution); C21 fact/interpretation split; C27 demoted; nehar di-nur and Nut re-ranked; C33 periodized; Indigenous citations re-done (Yolŋu; named communities; AIATSIS review queued); gematria protocol back-filled.

@@ -29,7 +29,7 @@ Collapsing for plausible transmission, independent inventions reduce to **~4**:
 Four independent inventions across the world's macro-regions is real convergence — at the scale of *recurring human inference*, not *universal sign*. Equally independent regions built no soul-road from the same sky.
 
 ## Notable per-tradition anchors (all sourced in the dossier)
-- Lakota: the band's light as "the campfires of ghosts on the road" (Powers 1975: 53, 93) — the same image as Yolngu Arnhem Land, independently.
+- Lakota: the band's light as "the campfires of ghosts on the road" (Powers 1975: 53, 93) — the same image as the Yolŋu tradition of Arnhem Land, independently.
 - Maya: the *dark rift* is the underworld road — the road is the band's darkness, not its light. A reading the vault should sit with.
 - Siberia's dominant reading is a *ski track* from the sky-elk hunt (Berezkin) — the often-hand-waved "Siberian shamanic soul-road" is largely a miss.
 - Honesty note on our own holdings: *nehar di-nur* and Nut are formally *river* and *body* readings with afterlife associations — they support "the band is otherworld-charged," not "the band is a road."

@@ -7,7 +7,7 @@ tags: [sources, scripture]
 
 Every passage the vault cites, with the original-language notes that matter to the argument.
 
-**Verification statement (2026-08-25, review round 1):** Hebrew readings follow the Masoretic Text as presented in BibleHub's interlinear/lexicon apparatus (Strong's-keyed) and Sefaria; Greek follows the standard critical text as presented in BibleHub's concordance apparatus (Strong's-keyed); Talmud follows the William Davidson edition (Sefaria); Josephus is cited in Whiston's and Thackeray's (Loeb) translations as labeled; Philo in Marcus's Loeb supplement; Macrobius in Eyssenhardt's Teubner Latin. Passages verified against these sources are so marked in [[Citation Verification]]; anything unsighted is flagged in place and excluded from load-bearing prose.
+**Verification statement (2026-08-25, review rounds 1–2):** Hebrew readings follow the Masoretic Text in the **Westminster Leningrad Codex** (the base text of BibleHub's interlinear apparatus, Strong's-keyed, and of Sefaria's Tanakh); Greek follows **Nestle 1904** (BibleHub's concordance base), with Strong's-keyed occurrence checks; English wording of biblical quotations is our own literal rendering cross-checked against those interlinear texts. Talmud: **William Davidson edition** (Sefaria), English and Aramaic. Josephus: Whiston and Thackeray (Loeb), labeled per quotation. Philo: Marcus, Loeb Supplement II. Macrobius: Eyssenhardt's Teubner Latin. Passages verified against these sources are so marked in [[Citation Verification]]; anything unsighted is flagged in place and excluded from load-bearing prose.
 
 ## The tearing / fabric motif
 | Passage | Role | Language note |

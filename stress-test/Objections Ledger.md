@@ -53,7 +53,7 @@ The literal galactic center is a dust-shrouded region around Sgr A*, a 4-million
 ## O9 — The tear reading isn't universal
 **Hits: the "entirely logical" claim in Section 6 and any universality framing of C25. Severity: minor-to-moderate. Status: upheld as a valid scope restriction — quantified in round 4.**
 Cultures read the band as a river (China, the Andes), spilled cornmeal (Cherokee), wood-ashes (San), straw (Armenian–Turkish belt), a ski track (Siberia), a long fish (Māori), and dark constellations (Andean; the Great Emu). If the band self-evidently read as a tear or road, the readings would converge. They only partially do.
-*Answer on file (updated, [[Global Milky Way Survey]]):* accepted and now measured — the soul-road is the single most elaborated reading worldwide (~15 of ~34 well-attested traditions) but a plurality, not a majority, and independence collapses to ~4 lineages. The earlier claim that "nearly all the readings agree it is a path between worlds" was **too strong and is retracted**. Support 3 re-worded to the honest four-lineage form; the convergence tagged `#claim/pattern`. O9 does not refute the sign reading — it fixes its true size.
+*Answer on file (updated, [[Global Milky Way Survey]]; wording completed review round 2):* accepted and now measured — in our surveyed corpus, 15 of 34 traditions were coded soul-/otherworld-travel (a strong plurality within that corpus, not a majority), grouped provisionally into ~4 independent lineages. The earlier claim that "nearly all the readings agree it is a path between worlds" was **too strong and is retracted**. Support 3 re-worded to the honest four-lineage form; the convergence tagged `#claim/pattern`. O9 does not refute the sign reading — it fixes its true size.
 
 ---
 
