@@ -42,4 +42,13 @@ James: "let's start the first round of research." Ran five parallel research age
 - **[[C15 Kesil Word Study]]:** demoted C15 to `#claim/contested` (leaning solid) — "traditionally and probably Orion; ancient-majority but not demonstrable." LXX inconsistent (Hesperus at Job 9:9; dropped at Amos 5:8); versions' "giant" = Semitic name of Orion (fettered-Nimrod tradition). Also fixed "belt" → "cords" (*mōšekhôt*) throughout, and logged the refuted "bound Pleiades / unbound Orion" apologetic as never-use.
 - **Dead ends noted:** HALOT/DCH entries and Driver *JTS* 1953/1956 are paywalled — positions left uncited pending library retrieval, per the no-citing-from-memory rule. One name in a research brief ("Ekaterina" on LXX inconsistency) matched no findable scholar — struck rather than propagated.
 - **Process note (Codex rule):** review-skipping rationale unchanged (document vault, direct source-verification in place of source-blind review — the Citation Verification pass *is* the direct check). The pre-public review gate stands.
-- Round 1 integrated; commit + PR pending James's go-ahead per working rule 2.
+- Round 1 integrated; commit + PR approved by James — pushed as `research-round-1`, opened PR #1.
+
+## 2026-08-25 — Session 4: mission reframe + gematria thread opened
+James reframed the project's posture: not perfection or deniability — exploration in peace, piecing together facts, theology, mysticism, ancient teachings, and gematria, cross-referenced honestly. Recorded verbatim-in-substance in [[Rules of Evidence]] ("The posture" section); [[Home]] mission statement rewritten to match. The stress-test layer stays, re-purposed explicitly as what makes wide-ranging exploration safe.
+
+- Added `#claim/pattern` to the tag taxonomy and a 5-point gematria protocol (MT spelling stated, arithmetic computed and shown, same method both sides, search space declared, automatic load-bearing ban).
+- Opened `explorations/` with [[Gematria Threads]]. All values computed ourselves (standard values, 11 project terms, one method). Two hits:
+  - **raqia = araphel = 380** (firmament = thick darkness) — our observation, provenance open; not yet found in a classical source.
+  - **sulam = Sinai = 130** — classical (Baal HaTurim on Gen 28:12), opening the Jacob's-ladder/Bethel "gate of heaven" thread (Gen 28:17), queued as a possible textual (not numerical) addition to the steelman's reception-history support.
+  - Negative results recorded per protocol (kesil 120, kimah 75, shamayim 390 match nothing; "or = 207 = Ein Sof" left unverified and unusable).
