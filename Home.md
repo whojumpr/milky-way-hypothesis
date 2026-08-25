@@ -31,6 +31,7 @@ Working vault exploring the hypothesis that **the Milky Way is a tear in the fab
 ## Research rounds
 - Round 1 (2026-08-25): [[O7 Design Debate]] · [[O8 Divine Darkness]] · [[C13 Anomaly Ledger]] · [[C15 Kesil Word Study]] · [[Citation Verification]]
 - Round 2 (2026-08-25, the Jacob's ladder thread): [[Jacobs Ladder Text]] · [[Jacobs Ladder Reception]] → new steelman support 5 ("the located gate, personalized"), audit rows C28–C30
+- Round 3 (2026-08-25, soul-gates + raqia): [[Macrobius Soul Gates]] · [[C24 Raqia Debate]] → support 3 upgraded (the two gates on the band, C32); seam-in-the-dome corrected to unattested; *nehar di-nur* and Nut added (C31)
 
 ## Sources & process
 - [[Scripture Index]] — every passage cited, with translation notes
