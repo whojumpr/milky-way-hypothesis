@@ -23,3 +23,11 @@ Input: the six-section foundation document (galactic address, designed address, 
 - Initialized git with the genealogy `.gitignore` pattern; asked James before committing per working rule 2. He approved: initial commit of the full vault, private repo `whojumpr/milky-way-hypothesis`, public only after the review round. Ran a credential scan over the tree before the commit.
 - **Process note (Codex rule):** skipped Codex for this session — document vault, ships no code; direct fact-checking of each claim was faster and more certain than a source-blind review. Flagged: before the repo is flipped public (public claims = always-review category), the content gets a review round.
 - **Dead end noted:** `The Ancestor Files` folder looked like the genealogy project but contains only a PDF handoff; the actual conventions live in the `Deanna kay hanaford` and `james clayton duncan` repos.
+
+## 2026-08-25 — Session 2: the star shafts (C27)
+James asked whether the foundation covered the pyramid "air shafts" aligned with Orion's Belt as soul-launch channels. It didn't — the foundation had only the Sah/Osiris ascent (C16) and the ground-plan OCT (C17).
+
+- Added the star-shaft claim as C27: King's Chamber south shaft → Alnitak (Orion's Belt), Queen's Chamber south → Sirius, northern shafts → circumpolar stars; proposed by Badawy & Trimble (1964), pre-dating and independent of Bauval; consonant with Pyramid Text ascent language.
+- Verdict `#claim/solid` with caveats recorded (bent shafts, sealed Queen's shafts/Gantenbrink doors, culmination alignment within ~1–2° in one epoch — "exactly" is too strong; "air shaft" is a misnomer, which favors the ritual reading).
+- Wired it into [[03 The Spiritual Weight of Orion]] and into [[Steelman]] load-bearing support 3 — it is the well-evidenced replacement for what the OCT tried to claim, and the hardest physical artifact in the pathway-of-souls thread.
+- Committed and pushed with James's explicit approval.

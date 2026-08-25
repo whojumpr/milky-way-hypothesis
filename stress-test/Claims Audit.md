@@ -42,9 +42,10 @@ Every factual claim in the foundation, numbered, checked, and tagged per [[Rules
 | C24 | Ancient Hebrews pictured a solid raqia holding back waters | `#claim/solid` | Mainstream ANE scholarship (Gen 1:6–8; Job 37:18; comparative Mesopotamian material). Contested by some conservative interpreters — noted. |
 | C25 | Milky Way as "Way to Heaven" / road of souls in medieval and ancient folklore | `#claim/solid` | Cicero's Dream of Scipio + Macrobius (souls' road via the Milky Way), Norse/Baltic/North American parallels, English "Walsingham Way." Genuine cross-cultural folklore. |
 | C26 | String theory/brane cosmology: universes as 3D membranes near higher dimensions | `#claim/contested` | Real published framework (Randall–Sundrum etc.), speculative and unconfirmed. Theological application is `#claim/speculation`. |
+| C27 | The Great Pyramid's shafts were aimed at stars — King's Chamber south at Alnitak (Orion's Belt), Queen's Chamber south at Sirius, northern shafts at the circumpolar stars — as ritual channels for the king's soul | `#claim/solid` w/ caveats | Badawy & Trimble 1964 (pre-Bauval, mainstream-adjacent); fits Pyramid Text ascent language; "air shaft" is a misnomer. Caveats: shafts bend (no line of sight), Queen's shafts sealed (Gantenbrink doors), alignment is culmination within ~1–2° in one epoch — "exactly" overstates. Strongest Egyptian support for the pathway-of-souls thread; unlike C17 it carries weight. |
 
 ## Audit summary
 - **Retired outright:** C8 (Jude→black holes), C11–C12 as physics (they falsify Version A).
 - **Demoted to non-load-bearing:** C5, C6 (weakened forms only), C17, C26.
-- **Promoted:** C21 — the Mark/Josephus veil material is stronger than the original foundation realized.
+- **Promoted:** C21 — the Mark/Josephus veil material is stronger than the original foundation realized. C27 (added 2026-08-25, session 2) — the star-shaft alignment, the well-evidenced replacement for what the OCT (C17) tried to claim.
 - **Left open on purpose:** C13 — the anomaly ledger, so the physical question stays honest instead of quietly assumed either way.
