@@ -1,0 +1,24 @@
+# OS junk
+.DS_Store
+**/.DS_Store
+Thumbs.db
+
+# Obsidian per-user workspace state (keep config, drop transient UI state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Credentials — never committed, belt and suspenders
+.env
+.env.*
+*.pem
+*.key
+**/credentials*
+**/secrets*
+
+# Temp / scratch
+*.tmp
+*~
+
+# Claude Code local settings (machine-specific permissions)
+.claude/settings.local.json
